@@ -15,7 +15,7 @@ I'm currently focused on Machine Learning, Deep Learning, Generative AI, RAG sys
 ## 🛠️ Tech Stack
 Python, pandas, numpy, matplotlib, Scikit-Learn, Tensor Flow, PyTorch, Langraph, FastAPI, LangChain
 
-##🔥 Featured Projects
+## 🔥 Featured Projects
 🤖 RAG AI Agent
 
 Built an AI agent using LangGraph and RAG that retrieves information from domain-specific documents, rewrites questions when necessary, maintains conversation history, and classifies questions before generating responses.
@@ -32,7 +32,7 @@ Machine learning application for detecting tomato plant diseases from images.
 
 Built and deployed a machine learning model for diabetes prediction using Scikit-learn and FastAPI.
 
-##🎯 My Goal
+## 🎯 My Goal
 
 To become a strong ML/AI Engineer capable of building, deploying, and maintaining intelligent systems that solve meaningful real-world problems.
 
