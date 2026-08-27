@@ -1,16 +1,40 @@
-## Hi there 👋
+ML/AI Developer | Python | Machine Learning | Generative AI
 
-<!--
-**Chimix001/Chimix001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Chemical Engineering student and an aspiring ML/AI Developer passionate about building intelligent systems and solving real-world problems with technology.
 
-Here are some ideas to get you started:
+I'm currently focused on Machine Learning, Deep Learning, Generative AI, RAG systems, and AI Agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I Do
+🤖 Machine Learning & Deep Learning
+🧠 Generative AI & LLM applications
+📚 Retrieval-Augmented Generation (RAG)
+🔗 AI Agents & LangGraph
+🔧 Model development and deployment
+🐍 Python development
+
+🔥 Featured Projects
+🤖 RAG AI Agent
+
+Built an AI agent using LangGraph and RAG that retrieves information from domain-specific documents, rewrites questions when necessary, maintains conversation history, and classifies questions before generating responses.
+
+🧑‍💻 AI Coding Assistant
+
+Built a coding-focused AI assistant using an open-source language model and the CodeAlpaca dataset, with a focus on answering programming-related questions.
+
+🌱 Plant Disease Detection
+
+Machine learning application for detecting tomato plant diseases from images.
+
+🩺 Diabetes Prediction API
+
+Built and deployed a machine learning model for diabetes prediction using Scikit-learn and FastAPI.
+
+🎯 My Goal
+
+To become a strong ML/AI Engineer capable of building, deploying, and maintaining intelligent systems that solve meaningful real-world problems.
+
+📫 Connect With Me
+💼 LinkedIn: in/chiamaka-egbulefu-9a9721251
+🐙 GitHub: Chimix001
+📧 Email: chiamakaegbulefu111@gmail.com
+𝕏 X: @chiamakachimix
