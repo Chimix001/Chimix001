@@ -1,4 +1,4 @@
-ML/AI Developer | Python | Machine Learning | Generative AI
+## ML/AI Developer | Python | Machine Learning | Generative AI
 
 I'm a Chemical Engineering student and an aspiring ML/AI Developer passionate about building intelligent systems and solving real-world problems with technology.
 
