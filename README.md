@@ -14,6 +14,7 @@ I'm currently focused on Machine Learning, Deep Learning, Generative AI, RAG sys
 
 ## 🛠️ Tech Stack
 Python, pandas, numpy, matplotlib, Scikit-Learn, Tensor Flow, PyTorch, Langraph, FastAPI, LangChain
+
 ##🔥 Featured Projects
 🤖 RAG AI Agent
 
@@ -31,11 +32,11 @@ Machine learning application for detecting tomato plant diseases from images.
 
 Built and deployed a machine learning model for diabetes prediction using Scikit-learn and FastAPI.
 
-🎯 My Goal
+##🎯 My Goal
 
 To become a strong ML/AI Engineer capable of building, deploying, and maintaining intelligent systems that solve meaningful real-world problems.
 
-📫 Connect With Me
+## 📫 Connect With Me
 💼 LinkedIn: in/chiamaka-egbulefu-9a9721251
 🐙 GitHub: Chimix001
 📧 Email: chiamakaegbulefu111@gmail.com
