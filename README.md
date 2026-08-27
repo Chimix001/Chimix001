@@ -4,7 +4,7 @@ I'm a Chemical Engineering student and an aspiring ML/AI Developer passionate ab
 
 I'm currently focused on Machine Learning, Deep Learning, Generative AI, RAG systems, and AI Agents.
 
-What I Do
+## What I Do
 🤖 Machine Learning & Deep Learning
 🧠 Generative AI & LLM applications
 📚 Retrieval-Augmented Generation (RAG)
@@ -12,7 +12,9 @@ What I Do
 🔧 Model development and deployment
 🐍 Python development
 
-🔥 Featured Projects
+## 🛠️ Tech Stack
+Python, pandas, numpy, matplotlib, Scikit-Learn, Tensor Flow, PyTorch, Langraph, FastAPI, LangChain
+##🔥 Featured Projects
 🤖 RAG AI Agent
 
 Built an AI agent using LangGraph and RAG that retrieves information from domain-specific documents, rewrites questions when necessary, maintains conversation history, and classifies questions before generating responses.
