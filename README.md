@@ -20,6 +20,6 @@ Python, pandas, numpy, matplotlib, Scikit-Learn, Tensor Flow, PyTorch, Langraph,
 To become a strong ML/AI Engineer capable of building, deploying, and maintaining intelligent systems that solve meaningful real-world problems.
 
 ## 📫 Connect With Me
-💼 LinkedIn: in/chiamaka-egbulefu-9a9721251
+💼 LinkedIn: [in/chiamaka-egbulefu-9a9721251](https://www.linkedin.com/in/chiamaka-egbulefu-9a9721251/)
 📧 Email: chiamakaegbulefu111@gmail.com
-𝕏: @chiamakachimix
+𝕏: [x.com/chiamakachimix](https://x.com/chiamakachimix)
