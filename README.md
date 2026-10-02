@@ -1,6 +1,6 @@
 ## ML/AI Developer | Python | Machine Learning | Generative AI
 
-I'm a Chemical Engineering student and an aspiring ML/AI Developer passionate about building intelligent systems and solving real-world problems with technology.
+I'm a Chemical Engineering student and an ML/AI Developer passionate about building intelligent systems and solving real-world problems with technology.
 
 I'm currently focused on Machine Learning, Deep Learning, Generative AI, RAG systems, and AI Agents.
 
@@ -13,7 +13,7 @@ I'm currently focused on Machine Learning, Deep Learning, Generative AI, RAG sys
 🐍 Python development
 
 ## 🛠️ Tech Stack
-Python, pandas, numpy, matplotlib, Scikit-Learn, Tensor Flow, PyTorch, Langraph, FastAPI, LangChain, MCP
+Python, pandas, numpy, matplotlib, Scikit-Learn, Tensor Flow, PyTorch, LangGraph, FastAPI, LangChain, MCP, SQL
 
 ## 🎯 My Goal
 
